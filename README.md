@@ -11,6 +11,8 @@ Please review our [contributing guidelines](contributing.md). We keep this list 
 ## Table of Contents
 
 - [ISAN](#isan)
+- [Mining](#mining)
+  - [Resource Scanning](#resource-scanning)
 - [Power Management](#power-management)
 
 
@@ -18,6 +20,10 @@ Please review our [contributing guidelines](contributing.md). We keep this list 
 ## ISAN
 - [ISAN](https://github.com/Collective-SB/ISAN/) - Integrated System for Autonomous Navigation in STARBASE
 - [Heading and Pitch](https://github.com/LizarddFish/Starbase/blob/main/Heading%2BPitch%20addon) - Heading and pitch display for ISAN
+
+## Mining
+### Resource Scanning
+- [Pfandadler Scanner](https://github.com/DerPfandadler/Pfandadler-YOLOL/tree/main/Material%20Scanner) - Resource Scanner with stack caculations
 
 ## Power Management
 ...
