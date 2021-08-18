@@ -6,5 +6,5 @@ It does so in a 🦄 unique, 🦋 beautiful, or 🏆 exceptional way.
 Look for a 🚀 for truly amazing projects. And look for quickie maintainer commentary and reviews in (italic parens) after some listings of note.
 
 Contributing
-Please review our contributing guidelines. We keep this list fresh by requiring all PRs to remove one or more non-awesome entries from this list. 
+Please review our [contributing guidelines](contributing.md). We keep this list fresh by requiring all PRs to remove one or more non-awesome entries from this list. 
 
