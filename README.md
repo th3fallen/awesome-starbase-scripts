@@ -8,3 +8,17 @@ Look for a 🚀 for truly amazing projects. And look for quickie maintainer comm
 Contributing
 Please review our [contributing guidelines](contributing.md). We keep this list fresh by requiring all PRs to remove one or more non-awesome entries from this list. 
 
+## Table of Contents
+
+- [ISAN](#isan)
+- [Power Management](#power-management)
+
+
+
+## ISAN
+- [ISAN](https://github.com/Collective-SB/ISAN/) - Integrated System for Autonomous Navigation in STARBASE
+- [Heading and Pitch](https://github.com/LizarddFish/Starbase/blob/main/Heading%2BPitch%20addon) - Heading and pitch display for ISAN
+
+## Power Management
+...
+  
